@@ -1,0 +1,36 @@
+{
+  "name": "pricing-component-with-toggle",
+  "version": "1.0.0",
+  "description": "Frontend Mentor: Pricing component with toggle",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default --gulpfile=./gulpfile.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vik407/pricing-component-with-toggle.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-less": "^4.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
+  },
+  "author": "Victor Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vik407/pricing-component-with-toggle/issues"
+  },
+  "homepage": "https://github.com/vik407/pricing-component-with-toggle#readme"
+}
